@@ -14,6 +14,8 @@
 
 Briem Script is one of two related font families. This one is identical to the other which is called Briem Hand except for one thing: This one offers an unusually realiistic set joins strokes between the letters you would expect to join in handwritten text.
 
+*Note! In Adobe InDesign 2020 need to have preferences in Advanced Type set to "world ready single line composer" or "Adobe World-Ready paragraph composer" * Other Adobe products may require a similar intervention.
+
 ![Sample Image](documentation/image1.png)
 
 ## About
