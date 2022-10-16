@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorntilde" format="2">
+  <advance width="560.4267857142858"/>
+  <unicode hex="1EE1"/>
+  <anchor x="271.5732142857143" y="0.0" name="bottom"/>
+  <anchor x="281.5732142857143" y="262.0" name="center"/>
+  <anchor x="367.0571428571429" y="12.292857142857143" name="ogonek"/>
+  <anchor x="347.1589285714286" y="711.8857142857142" name="top"/>
+  <anchor x="565.5732142857142" y="603.0" name="topright"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="tildecomb" xOffset="147.24821428571428"/>
+  </outline>
+</glyph>

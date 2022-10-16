@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotaccent" format="2">
+  <advance width="786"/>
+  <unicode hex="1E22"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="398" y="326" name="center"/>
+  <anchor x="443" y="796" name="top"/>
+  <anchor x="22" y="652" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotaccentcomb.case" xOffset="386"/>
+  </outline>
+</glyph>

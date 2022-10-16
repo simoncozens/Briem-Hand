@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.c" format="2">
+  <advance width="15.0"/>
+  <outline>
+    <contour>
+      <point x="-45.0" y="441.9392857142857" type="curve" smooth="yes"/>
+      <point x="54.46964285714286" y="441.9392857142857" type="line" smooth="yes"/>
+      <point x="104.57321428571429" y="441.9392857142857"/>
+      <point x="125.23035714285714" y="443.52142857142854"/>
+      <point x="137.90178571428572" y="449.55892857142857" type="curve"/>
+      <point x="153.6482142857143" y="465.9767857142857"/>
+      <point x="180.0" y="489.0"/>
+      <point x="202.0" y="499.0" type="curve"/>
+      <point x="-31.0" y="499.0" type="line" smooth="yes"/>
+      <point x="-46.0" y="499.0"/>
+      <point x="-53.0" y="477.0"/>
+      <point x="-53.0" y="459.0" type="curve" smooth="yes"/>
+      <point x="-53.0" y="455.0"/>
+      <point x="-51.0" y="441.9392857142857"/>
+    </contour>
+  </outline>
+</glyph>

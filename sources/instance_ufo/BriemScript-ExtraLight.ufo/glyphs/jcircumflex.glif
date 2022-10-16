@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex" format="2">
+  <advance width="296.23035714285714"/>
+  <unicode hex="0135"/>
+  <anchor x="146.23392857142858" y="-244.0" name="bottom"/>
+  <anchor x="208.76964285714286" y="806.0" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="circumflexcomb" xOffset="33.23392857142857"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.a" format="2">
+  <advance width="11.875"/>
+  <outline>
+    <contour>
+      <point x="-81.125" y="57.925" type="curve" smooth="yes"/>
+      <point x="-89.6125" y="23.700000000000003"/>
+      <point x="-42.2625" y="22.9625"/>
+      <point x="-33.3875" y="52.8" type="curve" smooth="yes"/>
+      <point x="-17.0625" y="120.8125"/>
+      <point x="134.55" y="323.1"/>
+      <point x="168.4875" y="371.25" type="curve" smooth="yes"/>
+      <point x="189.45" y="395.575"/>
+      <point x="143.275" y="426.8625"/>
+      <point x="133.825" y="414.475" type="curve" smooth="yes"/>
+      <point x="78.5875" y="335.8625"/>
+      <point x="-69.0875" y="105.925"/>
+    </contour>
+  </outline>
+</glyph>

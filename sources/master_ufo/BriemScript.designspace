@@ -13,7 +13,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="BriemScript-Thin.ufo" name="Briem Script Thin" familyname="Briem Script" stylename="Thin">
+    <source filename="BriemScript-Thin.ufo" name="BriemScript Thin" familyname="BriemScript" stylename="Thin">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -22,12 +22,142 @@
         <dimension name="Weight" xvalue="217"/>
       </location>
     </source>
-    <source filename="BriemScript-Black.ufo" name="Briem Script Black" familyname="Briem Script" stylename="Black">
+    <source filename="BriemScript-Black.ufo" name="BriemScript Black" familyname="BriemScript" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="777"/>
       </location>
     </source>
   </sources>
+  <instances>
+    <instance name="BriemScript Thin" familyname="BriemScript" stylename="Thin" filename="../instance_ufo/BriemScript-Thin.ufo" stylemapfamilyname="BriemScript Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="217"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript ExtraLight" familyname="BriemScript" stylename="ExtraLight" filename="../instance_ufo/BriemScript-ExtraLight.ufo" stylemapfamilyname="BriemScript ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="260"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript Light" familyname="BriemScript" stylename="Light" filename="../instance_ufo/BriemScript-Light.ufo" stylemapfamilyname="BriemScript Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="310"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript Regular" familyname="BriemScript" stylename="Regular" filename="../instance_ufo/BriemScript-Regular.ufo" stylemapfamilyname="BriemScript" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="380"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript Medium" familyname="BriemScript" stylename="Medium" filename="../instance_ufo/BriemScript-Medium.ufo" stylemapfamilyname="BriemScript Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="450"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript SemiBold" familyname="BriemScript" stylename="SemiBold" filename="../instance_ufo/BriemScript-SemiBold.ufo" stylemapfamilyname="BriemScript SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="560"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript Bold" familyname="BriemScript" stylename="Bold" filename="../instance_ufo/BriemScript-Bold.ufo" stylemapfamilyname="BriemScript" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="670"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="BriemScript Black" familyname="BriemScript" stylename="Black" filename="../instance_ufo/BriemScript-Black.ufo" stylemapfamilyname="BriemScript Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="777"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Use Typo Metrics</string>
+              <true/>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
   <lib>
     <dict>
       <key>public.skipExportGlyphs</key>

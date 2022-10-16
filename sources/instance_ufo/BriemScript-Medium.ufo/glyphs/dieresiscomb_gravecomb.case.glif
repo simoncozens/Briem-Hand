@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_gravecomb.case" format="2">
+  <anchor x="162.475" y="524.0" name="_top"/>
+  <anchor x="170.39464285714286" y="915.7517857142857" name="top"/>
+  <outline>
+    <component base="dieresiscomb"/>
+    <component base="gravecomb" xOffset="95.39464285714286" yOffset="170.75178571428572"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

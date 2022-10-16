@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ_acutecomb" format="2">
+  <advance width="690.7625"/>
+  <anchor x="155.3375" y="0.0" name="bottom_1"/>
+  <anchor x="494.0375" y="0.0" name="bottom_2"/>
+  <anchor x="271.0625" y="10.0" name="ogonek"/>
+  <anchor x="197.0875" y="652.0" name="top_1"/>
+  <anchor x="568.1875" y="652.0" name="top_2"/>
+  <anchor x="30.0625" y="652.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="132.0875"/>
+    <component base="J" xOffset="313.75"/>
+    <component base="acutecomb.case" xOffset="503.1875"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove" format="2">
+  <advance width="474.0232142857143"/>
+  <unicode hex="1EBB"/>
+  <anchor x="233.12678571428572" y="0.0" name="bottom"/>
+  <anchor x="370.1267857142857" y="0.0" name="ogonek"/>
+  <anchor x="308.1267857142857" y="716.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="202.12678571428572"/>
+  </outline>
+</glyph>

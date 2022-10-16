@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringbelowcomb" format="2">
+  <unicode hex="0325"/>
+  <anchor x="107.96785714285714" y="0.0" name="_bottom"/>
+  <anchor x="99.14107142857142" y="-245.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="99.97142857142858" y="-246.8267857142857" type="curve" smooth="yes"/>
+      <point x="156.28214285714284" y="-246.8267857142857"/>
+      <point x="200.60714285714286" y="-204.99285714285713"/>
+      <point x="200.60714285714286" y="-153.0" type="curve" smooth="yes"/>
+      <point x="200.60714285714286" y="-100.34285714285714"/>
+      <point x="156.94642857142858" y="-59.50535714285714"/>
+      <point x="100.63571428571429" y="-59.50535714285714" type="curve" smooth="yes"/>
+      <point x="44.325" y="-59.50535714285714"/>
+      <point x="0.0" y="-101.17321428571428"/>
+      <point x="0.0" y="-153.0" type="curve" smooth="yes"/>
+      <point x="0.0" y="-205.82321428571427"/>
+      <point x="43.660714285714285" y="-246.8267857142857"/>
+    </contour>
+    <contour>
+      <point x="100.97142857142858" y="-206.67142857142858" type="curve" smooth="yes"/>
+      <point x="70.97142857142858" y="-206.67142857142858"/>
+      <point x="45.971428571428575" y="-183.16607142857143"/>
+      <point x="45.971428571428575" y="-153.33214285714286" type="curve" smooth="yes"/>
+      <point x="45.971428571428575" y="-124.49821428571428"/>
+      <point x="70.97142857142858" y="-99.325"/>
+      <point x="100.97142857142858" y="-99.325" type="curve" smooth="yes"/>
+      <point x="131.1375" y="-99.325"/>
+      <point x="156.97142857142856" y="-124.49821428571428"/>
+      <point x="156.97142857142856" y="-153.16607142857143" type="curve" smooth="yes"/>
+      <point x="156.97142857142856" y="-183.16607142857143"/>
+      <point x="131.1375" y="-206.67142857142858"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>184</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asc.cross_part." format="2">
+  <advance width="498.475"/>
+  <anchor x="189.0" y="639.0" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="29.474999999999994" y="589.8625" type="curve"/>
+      <point x="143.6125" y="593.0875"/>
+      <point x="202.2375" y="593.0875"/>
+      <point x="328.0125" y="589.8625" type="curve"/>
+      <point x="343.7875" y="589.8625"/>
+      <point x="353.4625" y="616.9875"/>
+      <point x="353.4625" y="642.5625" type="curve" smooth="yes"/>
+      <point x="353.4625" y="665.1"/>
+      <point x="350.4625" y="667.7125"/>
+      <point x="342.4" y="667.7125" type="curve"/>
+      <point x="43.8625" y="667.7125" type="line"/>
+      <point x="28.474999999999994" y="667.7125"/>
+      <point x="19.412499999999994" y="640.5875"/>
+      <point x="18.799999999999997" y="616.2375" type="curve" smooth="yes"/>
+      <point x="18.1875" y="592.7"/>
+      <point x="21.412499999999994" y="589.8625"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="554.9071428571428"/>
+  <unicode hex="02C9"/>
+  <anchor x="182.0" y="524.0" name="_top"/>
+  <anchor x="196.0" y="659.0892857142857" name="top"/>
+  <outline>
+    <contour>
+      <point x="32.04464285714286" y="598.8785714285714" type="curve" smooth="yes"/>
+      <point x="350.93035714285713" y="598.8785714285714" type="line" smooth="yes"/>
+      <point x="366.3125" y="598.8785714285714"/>
+      <point x="376.3571428571429" y="620.6875"/>
+      <point x="376.3571428571429" y="653.6303571428572" type="curve" smooth="yes"/>
+      <point x="376.3571428571429" y="673.7642857142857"/>
+      <point x="373.3571428571429" y="676.3821428571429"/>
+      <point x="364.3125" y="676.3821428571429" type="curve" smooth="yes"/>
+      <point x="45.426785714285714" y="676.3821428571429" type="line" smooth="yes"/>
+      <point x="30.044642857142858" y="676.3821428571429"/>
+      <point x="20.0" y="654.1910714285714"/>
+      <point x="20.0" y="621.6303571428572" type="curve" smooth="yes"/>
+      <point x="20.0" y="601.4964285714286"/>
+      <point x="23.0" y="598.8785714285714"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_macroncomb.case" format="2">
+  <anchor x="151.975" y="524.0" name="_top"/>
+  <anchor x="188.14464285714286" y="824.1625" name="top"/>
+  <outline>
+    <component base="dieresiscomb"/>
+    <component base="macroncomb" xOffset="-7.855357142857143" yOffset="171.50178571428572"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

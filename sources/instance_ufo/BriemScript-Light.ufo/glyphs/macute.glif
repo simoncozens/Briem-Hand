@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macute" format="2">
+  <advance width="991.1375"/>
+  <unicode hex="1E3F"/>
+  <anchor x="461.65714285714284" y="-5.0" name="bottom"/>
+  <anchor x="477.3071428571429" y="747.0" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="acutecomb" xOffset="435.3071428571429"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vturned" format="2">
+  <advance width="459.9142857142857"/>
+  <unicode hex="028C"/>
+  <anchor x="254.7642857142857" y="524.0" name="bottom"/>
+  <anchor x="203.99642857142857" y="0.0" name="top"/>
+  <outline>
+    <component base="v" xScale="-1.0" yScale="-1.0" xOffset="459.9142857142857" yOffset="524.0"/>
+  </outline>
+</glyph>

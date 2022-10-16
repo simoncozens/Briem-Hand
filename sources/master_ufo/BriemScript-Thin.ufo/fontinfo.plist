@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-244</integer>
     <key>familyName</key>
-    <string>Briem Script</string>
+    <string>BriemScript</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -140,7 +140,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleMapFamilyName</key>
-    <string>Briem Script Thin</string>
+    <string>BriemScript Thin</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

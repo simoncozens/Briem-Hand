@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_caroncomb.case" format="2">
+  <anchor x="148.225" y="524.0" name="_top"/>
+  <anchor x="208.84107142857144" y="852.6089285714286" name="top"/>
+  <outline>
+    <component base="dieresiscomb"/>
+    <component base="caroncomb" xOffset="54.84107142857143" yOffset="171.76964285714286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

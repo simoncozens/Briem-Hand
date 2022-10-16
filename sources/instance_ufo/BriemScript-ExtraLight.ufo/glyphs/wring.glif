@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wring" format="2">
+  <advance width="788.0642857142857"/>
+  <unicode hex="1E98"/>
+  <anchor x="371.84464285714284" y="0.0" name="bottom"/>
+  <anchor x="561.0053571428572" y="654.0" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="ringcomb" xOffset="330.0053571428571"/>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="69.0" y="0.0" name="_bottom"/>
+  <anchor x="69.0" y="-249.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="11.575000000000001" y="-235.4375" type="curve" smooth="yes"/>
+      <point x="33.6" y="-235.4375"/>
+      <point x="43.212500000000006" y="-232.05"/>
+      <point x="59.85" y="-222.15" type="curve" smooth="yes"/>
+      <point x="95.2375" y="-195.625"/>
+      <point x="153.125" y="-141.1125"/>
+      <point x="147.0" y="-115.625" type="curve" smooth="yes"/>
+      <point x="143.9375" y="-105.175"/>
+      <point x="141.1625" y="-93.95"/>
+      <point x="126.2" y="-80.4375" type="curve" smooth="yes"/>
+      <point x="112.625" y="-69.3125"/>
+      <point x="83.575" y="-51.225"/>
+      <point x="67.8375" y="-51.225" type="curve" smooth="yes"/>
+      <point x="59.55" y="-51.225"/>
+      <point x="56.7125" y="-54.0625"/>
+      <point x="51.0375" y="-65.575" type="curve" smooth="yes"/>
+      <point x="38.4875" y="-100.425"/>
+      <point x="-1.0250000000000004" y="-176.675"/>
+      <point x="-19.375" y="-205.7" type="curve" smooth="yes"/>
+      <point x="-26.150000000000002" y="-215.8625"/>
+      <point x="-29.150000000000002" y="-219.8625"/>
+      <point x="-29.150000000000002" y="-221.8625" type="curve" smooth="yes"/>
+      <point x="-29.150000000000002" y="-224.8625"/>
+      <point x="-6.675000000000001" y="-235.4375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>138</integer>
+    </dict>
+  </lib>
+</glyph>

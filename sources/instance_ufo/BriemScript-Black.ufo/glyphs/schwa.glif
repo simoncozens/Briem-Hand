@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="496"/>
+  <unicode hex="0259"/>
+  <anchor x="265" y="524" name="bottom"/>
+  <anchor x="128" y="524" name="ogonek"/>
+  <anchor x="200" y="0" name="top"/>
+  <outline>
+    <component base="e" xScale="-1" yScale="-1" xOffset="496" yOffset="524"/>
+  </outline>
+</glyph>

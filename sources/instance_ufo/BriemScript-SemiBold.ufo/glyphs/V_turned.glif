@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vturned" format="2">
+  <advance width="623.5125"/>
+  <unicode hex="0245"/>
+  <anchor x="348.925" y="644.0" name="bottom"/>
+  <anchor x="283.35" y="-8.0" name="top"/>
+  <outline>
+    <component base="V" xScale="-1.0" yScale="-1.0" xOffset="642.4" yOffset="644.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>V</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke" format="2">
+  <advance width="587.5285714285715"/>
+  <unicode hex="0180"/>
+  <anchor x="302.38214285714287" y="0.0" name="bottom"/>
+  <anchor x="208.38392857142858" y="639.0" name="cross"/>
+  <anchor x="422.91607142857146" y="524.0" name="top"/>
+  <outline>
+    <component base="b"/>
+    <component base="asc.cross_part." xOffset="19.383928571428573"/>
+  </outline>
+</glyph>

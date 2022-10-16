@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Istroke" format="2">
+  <advance width="326.75"/>
+  <unicode hex="0197"/>
+  <anchor x="145.275" y="0.0" name="bottom"/>
+  <anchor x="261.0" y="10.0" name="ogonek"/>
+  <anchor x="187.025" y="652.0" name="top"/>
+  <anchor x="20.0" y="652.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="194.9375" y="-13.0" type="curve" smooth="yes"/>
+      <point x="224.9875" y="-13.0"/>
+      <point x="228.825" y="-6.324999999999999"/>
+      <point x="228.825" y="10.925" type="curve" smooth="yes"/>
+      <point x="228.825" y="244.725"/>
+      <point x="257.0875" y="581.375"/>
+      <point x="257.0875" y="597.2125" type="curve" smooth="yes"/>
+      <point x="257.0875" y="635.425"/>
+      <point x="179.925" y="652.0"/>
+      <point x="131.8125" y="652.0" type="curve" smooth="yes"/>
+      <point x="101.375" y="652.0"/>
+      <point x="97.925" y="645.7125"/>
+      <point x="97.925" y="628.4625" type="curve" smooth="yes"/>
+      <point x="96.7625" y="477.5875"/>
+      <point x="69.6625" y="57.2375"/>
+      <point x="69.6625" y="41.5625" type="curve" smooth="yes"/>
+      <point x="69.6625" y="3.9625000000000004"/>
+      <point x="146.825" y="-13.0"/>
+    </contour>
+    <contour>
+      <point x="22.4625" y="308.525" type="curve"/>
+      <point x="286.0625" y="308.525" type="line"/>
+      <point x="301.45" y="308.525"/>
+      <point x="310.9" y="330.1375"/>
+      <point x="310.9" y="358.775" type="curve" smooth="yes"/>
+      <point x="310.9" y="375.1875"/>
+      <point x="307.9" y="377.8"/>
+      <point x="299.8375" y="377.8" type="curve"/>
+      <point x="36.2375" y="377.8" type="line"/>
+      <point x="20.075" y="377.8"/>
+      <point x="11.787499999999998" y="356.1875"/>
+      <point x="11.787499999999998" y="327.55" type="curve" smooth="yes"/>
+      <point x="11.787499999999998" y="310.75"/>
+      <point x="14.399999999999999" y="308.525"/>
+    </contour>
+  </outline>
+</glyph>

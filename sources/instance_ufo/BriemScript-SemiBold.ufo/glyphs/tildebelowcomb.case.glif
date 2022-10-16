@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildebelowcomb.case" format="2">
+  <anchor x="161.0" y="0.0" name="_bottom"/>
+  <anchor x="151.0" y="-185.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="224.4" y="-201.5375" type="curve" smooth="yes"/>
+      <point x="252.75" y="-201.5375"/>
+      <point x="272.4875" y="-190.4125"/>
+      <point x="289.9375" y="-168.025" type="curve" smooth="yes"/>
+      <point x="307.675" y="-145.5125"/>
+      <point x="318.8375" y="-107.575"/>
+      <point x="318.8375" y="-80.125" type="curve" smooth="yes"/>
+      <point x="318.8375" y="-55.525"/>
+      <point x="307.6125" y="-47.849999999999994"/>
+      <point x="296.1625" y="-47.849999999999994" type="curve" smooth="yes"/>
+      <point x="290.325" y="-47.849999999999994"/>
+      <point x="288.1" y="-50.4625"/>
+      <point x="285.875" y="-57.9125" type="curve" smooth="yes"/>
+      <point x="279.3875" y="-82.63749999999999"/>
+      <point x="268.325" y="-95.57499999999999"/>
+      <point x="249.775" y="-95.57499999999999" type="curve" smooth="yes"/>
+      <point x="214.875" y="-95.57499999999999"/>
+      <point x="151.0625" y="-41.525"/>
+      <point x="91.3375" y="-41.525" type="curve" smooth="yes"/>
+      <point x="62.9875" y="-41.525"/>
+      <point x="42.8625" y="-52.65"/>
+      <point x="25.8" y="-75.0375" type="curve" smooth="yes"/>
+      <point x="8.0625" y="-97.9375"/>
+      <point x="-3.0999999999999996" y="-135.4875"/>
+      <point x="-3.0999999999999996" y="-162.9375" type="curve" smooth="yes"/>
+      <point x="-3.0999999999999996" y="-187.5375"/>
+      <point x="8.125" y="-195.2125"/>
+      <point x="19.575000000000003" y="-195.2125" type="curve" smooth="yes"/>
+      <point x="25.4125" y="-195.2125"/>
+      <point x="27.637500000000003" y="-192.9875"/>
+      <point x="29.8625" y="-185.5375" type="curve" smooth="yes"/>
+      <point x="36.35" y="-160.8125"/>
+      <point x="47.4125" y="-147.4875"/>
+      <point x="65.575" y="-147.4875" type="curve" smooth="yes"/>
+      <point x="100.8625" y="-147.4875"/>
+      <point x="164.675" y="-201.5375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>309</integer>
+    </dict>
+  </lib>
+</glyph>

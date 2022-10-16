@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zlinebelow" format="2">
+  <advance width="555.6428571428571"/>
+  <unicode hex="1E94"/>
+  <anchor x="283.16785714285714" y="-159.0" name="bottom"/>
+  <anchor x="262.6857142857143" y="326.0" name="center"/>
+  <anchor x="308.00714285714287" y="652.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="macronbelowcomb.case" xOffset="101.16785714285714"/>
+  </outline>
+</glyph>

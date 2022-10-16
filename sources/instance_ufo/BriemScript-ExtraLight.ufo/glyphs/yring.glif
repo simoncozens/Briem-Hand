@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yring" format="2">
+  <advance width="613.8357142857143"/>
+  <unicode hex="1E99"/>
+  <anchor x="599.675" y="15.7" name="bottom"/>
+  <anchor x="464.61607142857144" y="654.0" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="ringcomb" xOffset="233.61607142857142"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcedilla" format="2">
+  <advance width="753.2196428571428"/>
+  <unicode hex="1E10"/>
+  <anchor x="339.29285714285714" y="-249.0" name="bottom"/>
+  <anchor x="374.3285714285714" y="326.0" name="center"/>
+  <anchor x="398.8767857142857" y="652.0" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="commaaccentcomb.case" xOffset="253.65"/>
+  </outline>
+</glyph>

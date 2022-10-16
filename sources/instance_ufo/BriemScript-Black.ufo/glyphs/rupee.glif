@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupee" format="2">
+  <advance width="1181"/>
+  <unicode hex="20A8"/>
+  <anchor x="346" y="0" name="bottom_1"/>
+  <anchor x="927" y="0" name="bottom_2"/>
+  <anchor x="380" y="652" name="top_1"/>
+  <anchor x="955" y="524" name="top_2"/>
+  <outline>
+    <component base="R"/>
+    <component base="s" xOffset="693"/>
+  </outline>
+</glyph>

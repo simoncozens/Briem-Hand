@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcaron" format="2">
+  <advance width="788.3803571428572"/>
+  <unicode hex="021E"/>
+  <anchor x="378.6142857142857" y="0.0" name="bottom"/>
+  <anchor x="398.6142857142857" y="326.0" name="center"/>
+  <anchor x="456.6142857142857" y="893.0" name="top"/>
+  <anchor x="22.614285714285714" y="652.0" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="caroncomb.case" xOffset="314.6142857142857"/>
+  </outline>
+</glyph>

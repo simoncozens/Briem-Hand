@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aturned" format="2">
+  <advance width="640.4875"/>
+  <unicode hex="2C6F"/>
+  <unicode hex="0250"/>
+  <anchor x="332.4839285714286" y="652.0" name="bottom"/>
+  <anchor x="117.32857142857142" y="652.0" name="ogonek"/>
+  <anchor x="275.16964285714283" y="0.0" name="top"/>
+  <outline>
+    <component base="A" xScale="-1.0" yScale="-1.0" xOffset="640.4875" yOffset="652.0"/>
+  </outline>
+</glyph>

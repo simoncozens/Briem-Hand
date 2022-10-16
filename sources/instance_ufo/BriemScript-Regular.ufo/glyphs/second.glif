@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="370.04107142857146"/>
+  <unicode hex="2033"/>
+  <outline>
+    <component base="minute" xOffset="147.86785714285713"/>
+    <component base="minute"/>
+  </outline>
+</glyph>

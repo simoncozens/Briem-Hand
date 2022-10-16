@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb_macroncomb" format="2">
+  <anchor x="88" y="524" name="_top"/>
+  <anchor x="89" y="882" name="top"/>
+  <outline>
+    <component base="gravecomb"/>
+    <component base="macroncomb" xOffset="-107" yOffset="221"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

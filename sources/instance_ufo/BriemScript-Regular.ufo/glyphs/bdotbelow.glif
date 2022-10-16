@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bdotbelow" format="2">
+  <advance width="602.9571428571429"/>
+  <unicode hex="1E05"/>
+  <anchor x="297.2392857142857" y="-138.0" name="bottom"/>
+  <anchor x="209.45535714285714" y="639.0" name="cross"/>
+  <anchor x="433.84464285714284" y="524.0" name="top"/>
+  <outline>
+    <component base="b"/>
+    <component base="dotbelowcomb" xOffset="236.08035714285714"/>
+  </outline>
+</glyph>

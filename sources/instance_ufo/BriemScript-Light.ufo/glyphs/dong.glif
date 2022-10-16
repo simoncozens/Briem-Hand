@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="652.6392857142857"/>
+  <unicode hex="20AB"/>
+  <anchor x="303.0" y="0.0" name="bottom"/>
+  <anchor x="323.0" y="262.0" name="center"/>
+  <anchor x="482.65714285714284" y="639.0" name="cross"/>
+  <anchor x="241.54107142857143" y="529.4803571428571" name="top"/>
+  <anchor x="640.1589285714285" y="623.5232142857143" name="topright"/>
+  <outline>
+    <component base="dcroat"/>
+    <component base="endash" xOffset="82.85178571428571" yOffset="-410.0"/>
+  </outline>
+</glyph>

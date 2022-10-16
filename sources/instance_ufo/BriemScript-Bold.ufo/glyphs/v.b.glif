@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.b" format="2">
+  <outline>
+    <contour>
+      <point x="-59.3125" y="473.6303571428571" type="curve" smooth="yes"/>
+      <point x="6.6875" y="471.6303571428571"/>
+      <point x="118.0" y="503.0"/>
+      <point x="152.0" y="577.0" type="curve" smooth="yes"/>
+      <point x="160.0" y="595.0"/>
+      <point x="108.93571428571428" y="672.9875"/>
+      <point x="106.3625" y="652.9875" type="curve" smooth="yes"/>
+      <point x="95.11428571428571" y="548.9875"/>
+      <point x="6.553571428571431" y="520.0"/>
+      <point x="-87.44642857142857" y="522.0" type="curve" smooth="yes"/>
+      <point x="-98.44642857142857" y="522.0"/>
+      <point x="-71.3125" y="473.6303571428571"/>
+    </contour>
+  </outline>
+</glyph>

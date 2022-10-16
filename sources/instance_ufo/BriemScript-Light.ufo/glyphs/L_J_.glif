@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="981.8517857142857"/>
+  <unicode hex="01C7"/>
+  <anchor x="279.4982142857143" y="0.0" name="bottom_1"/>
+  <anchor x="803.8767857142857" y="0.0" name="bottom_2"/>
+  <anchor x="236.49821428571428" y="326.0" name="center"/>
+  <anchor x="243.49821428571428" y="648.6785714285714" name="top_1"/>
+  <anchor x="865.5267857142857" y="652.0" name="top_2"/>
+  <anchor x="416.4982142857143" y="524.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="591.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>J</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

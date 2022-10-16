@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="2">
+  <advance width="771.4642857142857"/>
+  <unicode hex="01FC"/>
+  <anchor x="406.98571428571427" y="0.0" name="bottom"/>
+  <anchor x="418.98571428571427" y="906.0" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acutecomb.case" xOffset="353.98571428571427"/>
+  </outline>
+</glyph>

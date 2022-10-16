@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb_macroncomb" format="2">
+  <anchor x="62.0" y="524.0" name="_top"/>
+  <anchor x="56.0" y="875.6607142857143" name="top"/>
+  <outline>
+    <component base="acutecomb"/>
+    <component base="macroncomb" xOffset="-140.0" yOffset="223.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

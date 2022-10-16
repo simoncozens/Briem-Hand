@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_dieresiscomb.case" format="2">
+  <anchor x="161" y="524" name="_top"/>
+  <anchor x="216" y="887" name="top"/>
+  <outline>
+    <component base="tildecomb"/>
+    <component base="dieresiscomb" xOffset="11" yOffset="194"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

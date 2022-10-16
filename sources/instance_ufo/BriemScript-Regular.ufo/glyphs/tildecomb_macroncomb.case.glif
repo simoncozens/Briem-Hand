@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb.case" format="2">
+  <anchor x="153.2017857142857" y="524.0" name="_top"/>
+  <anchor x="219.08928571428572" y="825.225" name="top"/>
+  <outline>
+    <component base="tildecomb"/>
+    <component base="macroncomb" xOffset="23.089285714285715" yOffset="171.31428571428572"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

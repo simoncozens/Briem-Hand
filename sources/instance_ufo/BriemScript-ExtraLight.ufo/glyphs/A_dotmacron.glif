@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adotmacron" format="2">
+  <advance width="638.6125"/>
+  <unicode hex="01E0"/>
+  <unicode hex="01E1"/>
+  <anchor x="308.5392857142857" y="0.0" name="bottom"/>
+  <anchor x="521.9982142857143" y="0.0" name="ogonek"/>
+  <anchor x="394.2232142857143" y="923.5357142857143" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotaccentcomb.case" xOffset="322.15714285714284"/>
+    <component base="macroncomb.case" xOffset="203.22321428571428" yOffset="145.53571428571428"/>
+  </outline>
+</glyph>

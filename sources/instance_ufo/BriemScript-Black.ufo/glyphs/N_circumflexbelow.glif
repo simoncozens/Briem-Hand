@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncircumflexbelow" format="2">
+  <advance width="744"/>
+  <unicode hex="1E4A"/>
+  <anchor x="337" y="-216" name="bottom"/>
+  <anchor x="413" y="642" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="circumflexbelowcomb.case" xOffset="190"/>
+  </outline>
+</glyph>

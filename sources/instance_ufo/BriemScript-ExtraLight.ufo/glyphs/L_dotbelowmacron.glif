@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelowmacron" format="2">
+  <advance width="484.6892857142857"/>
+  <unicode hex="1E38"/>
+  <anchor x="260.9982142857143" y="-165.69642857142858" name="bottom"/>
+  <anchor x="236.23035714285714" y="326.0" name="center"/>
+  <anchor x="252.23035714285714" y="776.4642857142857" name="top"/>
+  <anchor x="416.23035714285714" y="524.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb.case" xOffset="226.85714285714286"/>
+    <component base="macroncomb.case" xOffset="61.230357142857144" yOffset="-1.5357142857142858"/>
+  </outline>
+</glyph>

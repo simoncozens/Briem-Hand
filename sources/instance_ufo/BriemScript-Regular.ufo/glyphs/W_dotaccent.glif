@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdotaccent" format="2">
+  <advance width="975.1732142857143"/>
+  <unicode hex="1E86"/>
+  <anchor x="480.2767857142857" y="0.0" name="bottom"/>
+  <anchor x="557.2714285714286" y="801.8214285714286" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dotaccentcomb.case" xOffset="477.2767857142857"/>
+  </outline>
+</glyph>
