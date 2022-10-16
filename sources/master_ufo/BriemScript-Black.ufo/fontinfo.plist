@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>756</integer>
+    <key>capHeight</key>
+    <integer>652</integer>
+    <key>copyright</key>
+    <string>Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Briem-Script)</string>
+    <key>descender</key>
+    <integer>-244</integer>
+    <key>familyName</key>
+    <string>Briem Script</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>-1340</integer>
+        <key>y</key>
+        <integer>511</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2022/10/16 06:14:26</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1200</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-300</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Gunnlaugur SE Briem, Eben Sorkin</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Sorkin Type</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://sorkintype.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>250</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>50</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1200</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-300</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>STC</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1892</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>460</integer>
+    <key>postscriptBlueScale</key>
+    <real>0.037</real>
+    <key>postscriptBlueShift</key>
+    <integer>5</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+      <integer>499</integer>
+      <integer>525</integer>
+      <integer>639</integer>
+      <integer>655</integer>
+      <integer>748</integer>
+      <integer>764</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-260</integer>
+      <integer>-244</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>98</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>211</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>350</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Briem Script Black</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>xHeight</key>
+    <integer>524</integer>
+  </dict>
+</plist>

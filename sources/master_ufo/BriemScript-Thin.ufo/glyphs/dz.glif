@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dz" format="2">
+  <advance width="1091"/>
+  <unicode hex="01F3"/>
+  <anchor x="303" y="0" name="bottom_1"/>
+  <anchor x="884" y="0" name="bottom_2"/>
+  <anchor x="323" y="262" name="center_1"/>
+  <anchor x="894" y="262" name="center_2"/>
+  <anchor x="480" y="639" name="cross"/>
+  <anchor x="253" y="524" name="top_1"/>
+  <anchor x="904" y="524" name="top_2"/>
+  <anchor x="638" y="630" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="645"/>
+  </outline>
+</glyph>

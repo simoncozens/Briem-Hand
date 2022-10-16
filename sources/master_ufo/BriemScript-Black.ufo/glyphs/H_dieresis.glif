@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdieresis" format="2">
+  <advance width="817"/>
+  <unicode hex="1E26"/>
+  <anchor x="386" y="0" name="bottom"/>
+  <anchor x="406" y="326" name="center"/>
+  <anchor x="443" y="884" name="top"/>
+  <anchor x="30" y="652" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dieresiscomb.case" xOffset="234" yOffset="13"/>
+  </outline>
+</glyph>

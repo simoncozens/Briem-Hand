@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
+      <map input="100" output="217"/>
+      <map input="200" output="260"/>
+      <map input="300" output="310"/>
+      <map input="400" output="380"/>
+      <map input="500" output="450"/>
+      <map input="600" output="560"/>
+      <map input="700" output="670"/>
+      <map input="900" output="777"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="BriemScript-Thin.ufo" name="Briem Script Thin" familyname="Briem Script" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="217"/>
+      </location>
+    </source>
+    <source filename="BriemScript-Black.ufo" name="Briem Script Black" familyname="Briem Script" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="777"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>asc.cross_part.</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>
