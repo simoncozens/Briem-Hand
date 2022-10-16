@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Eopen" format="2">
-  <advance width="525.1607142857143"/>
-  <unicode hex="0190"/>
-  <outline>
-    <component base="EreversedOpen" xScale="-1.0" yScale="-1.0" xOffset="525.1607142857143" yOffset="652.0"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="doubleprimemod" format="2">
-  <advance width="407.875"/>
-  <unicode hex="02BA"/>
-  <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="166.7375" yOffset="-3.6750000000000003"/>
-  </outline>
-</glyph>
