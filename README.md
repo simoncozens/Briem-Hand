@@ -1,16 +1,16 @@
 # Briem Hand
 
-[![][Fontbakery]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
-[![][Universal]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://EbenSorkin.github.io/Briem-Hand/fontbakery/fontbakery-report.html)
+[![][Universal]](https://EbenSorkin.github.io/Briem-Hand/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://EbenSorkin.github.io/Briem-Hand/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://EbenSorkin.github.io/Briem-Hand/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://EbenSorkin.github.io/Briem-Hand/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Hand%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Hand%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Hand%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Hand%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Hand%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Briem Hand is one of two related font families. This one offers an unusually realistic set of join strokes between the letters which join in handwritten text. The other, Briem Print, keeps each letter separate and not joined. Both designs help teach the handwriting system made by Gunnlaugur SE Briem.
 
@@ -18,7 +18,7 @@ See Briem Print: [https://github.com/SorkinType/Briem-Print](https://github.com/
 
 *Note! In Adobe InDesign 2020 need to have preferences in Advanced Type set to "world ready single line composer" or "Adobe World-Ready paragraph composer" * Other Adobe products may require a similar intervention.
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/image1a.png)
 
 ## About
 
