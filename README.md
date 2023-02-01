@@ -1,4 +1,4 @@
-# Briem Script
+# Briem Hand
 
 [![][Fontbakery]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
 [![][Universal]](https://EbenSorkin.github.io/Briem-Script/fontbakery/fontbakery-report.html)
@@ -12,9 +12,9 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEbenSorkin%2FBriem-Script%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Briem Script is one of two related font families. This one offers an unusually realistic set of join strokes between the letters which join in handwritten text. The other, Briem Hand, keeps each letter separate and not joined. Both designs help teach the handwriting system made by Gunnlaugur SE Briem.
+Briem Hand is one of two related font families. This one offers an unusually realistic set of join strokes between the letters which join in handwritten text. The other, Briem Print, keeps each letter separate and not joined. Both designs help teach the handwriting system made by Gunnlaugur SE Briem.
 
-See Briem Hand: [https://github.com/SorkinType/Briem-Hand](https://github.com/SorkinType/Briem-Hand)
+See Briem Print: [https://github.com/SorkinType/Briem-Print](https://github.com/SorkinType/Briem-Print)
 
 *Note! In Adobe InDesign 2020 need to have preferences in Advanced Type set to "world ready single line composer" or "Adobe World-Ready paragraph composer" * Other Adobe products may require a similar intervention.
 
@@ -22,7 +22,9 @@ See Briem Hand: [https://github.com/SorkinType/Briem-Hand](https://github.com/So
 
 ## About
 
-Gunnlaugur SE Briem is a designer and lives in Spain. His postgraduate studies in Copenhagen and London ended with a PhD from the Royal College of Art.Gunnlaugur SE Briem designed Briem Script. Previous Non-Libre versions have been released in the past by Microsoft, Adobe and Monotype.
+Gunnlaugur SE Briem is a designer and lives in Spain. His postgraduate studies in Basel and London ended with a PhD from the Royal College of Art. Gunnlaugur SE Briem designed Briem Print. 
+
+Previous Non-Libre versions have been released in the past by Microsoft, Adobe and Monotype.
 
 Sorkin Type Co. is a Massachusetts based font foundry.
 
