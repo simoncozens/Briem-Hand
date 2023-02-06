@@ -15,6 +15,7 @@ help:
 	@echo
 
 build: build.stamp
+	. venv/bin/activate; python3 scripts/add-color.py
 
 venv: venv/touchfile
 
