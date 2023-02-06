@@ -46,5 +46,5 @@ for gname in font.getGlyphOrder():
 		 	)
 	  ),
 		# Glyph
-	 	PaintGlyph(gname, PaintSolid("#FFFFFFff")),
+	 	PaintGlyph(gname, PaintSolid("foreground")),
 ])

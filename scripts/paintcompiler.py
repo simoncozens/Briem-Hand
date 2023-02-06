@@ -62,6 +62,8 @@ class PythonBuilder:
         return v
 
     def get_palette_index(self, color):
+        if color == "foreground":
+            return 0xffff
         if not isinstance(color, list):
             color = [color]
         if color not in self.palette:
