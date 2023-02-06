@@ -4,6 +4,7 @@ LOW_GREEN = "#14FF1D22"
 HIGH_GREEN = "#72FB3655"
 LOW_BLUE = "#141DFFFF"
 HIGH_BLUE = "#7236FB55"
+TRANSPARENT = "#00000000"
 
 # Getting widths out of a variable font is hard, let's
 # get them out of the sources instead
@@ -25,24 +26,42 @@ for gname in font.getGlyphOrder():
 	glyphs[gname] = PaintColrLayers([
 	 	# Baseline
 	 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 1.0,
-		 	PaintGlyph("bline", PaintVarSolid(LOW_BLUE, "GDLN=0:0 GDLN=1:1"))
+		 	PaintGlyph("bline", PaintVarSolid("foreground", "GDLN=0:0 GDLN=1:1"))
+	 	),
+	 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 1.0,
+		 	PaintGlyph("bline", PaintVarSolid([TRANSPARENT, LOW_BLUE], "GDLN=0:0 GDLN=1:1"))
 	 	),
 	 	# X height
 	 	PaintTranslate(0, 500,
 		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 1.0,
-			 	PaintGlyph("bline", PaintVarSolid(LOW_BLUE, "GDLN=0:0 GDLN=1:1"))
+			 	PaintGlyph("bline", PaintVarSolid("foreground", "GDLN=0:0 GDLN=1:1"))
+		 	),
+		),
+	 	PaintTranslate(0, 500,
+		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 1.0,
+			 	PaintGlyph("bline", PaintVarSolid([TRANSPARENT, LOW_BLUE], "GDLN=0:0 GDLN=1:1"))
 		 	),
 		),
 	 	# Descender
 	 	PaintTranslate(0, -315,
 		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 0.5,
-			 	PaintGlyph("bline", PaintVarSolid(RED, "GDLN=0:0 GDLN=1:1"))
+			 	PaintGlyph("bline", PaintVarSolid("foreground", "GDLN=0:0 GDLN=1:1"))
+		 	)
+	  ),
+	 	PaintTranslate(0, -315,
+		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 0.5,
+			 	PaintGlyph("bline", PaintVarSolid([TRANSPARENT, RED], "GDLN=0:0 GDLN=1:1"))
 		 	)
 	  ),
 		# Ascender
 	 	PaintTranslate(0, 784,
 		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 0.5,
-			 	PaintGlyph("bline", PaintVarSolid(RED, "GDLN=0:0 GDLN=1:1"))
+			 	PaintGlyph("bline", PaintVarSolid("foreground", "GDLN=0:0 GDLN=1:1"))
+		 	)
+	  ),
+	 	PaintTranslate(0, 784,
+		 	PaintVarScale(f"wght=100:{w1} wght=900:{w2}", 0.5,
+			 	PaintGlyph("bline", PaintVarSolid([TRANSPARENT, RED], "GDLN=0:0 GDLN=1:1"))
 		 	)
 	  ),
 		# Glyph
