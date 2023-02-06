@@ -78190,14 +78190,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"271 0 LINE",
-"271 32 LINE",
-"-2 32 LINE",
-"-2 0 LINE"
+"600 0 LINE",
+"600 32 LINE",
+"0 32 LINE",
+"0 0 LINE"
 );
 }
 );
-width = 269;
+width = 600;
 },
 {
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
@@ -78205,14 +78205,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"271 0 LINE",
-"271 32 LINE",
-"-2 32 LINE",
-"-2 0 LINE"
+"600 0 LINE",
+"600 32 LINE",
+"0 32 LINE",
+"0 0 LINE"
 );
 }
 );
-width = 269;
+width = 600;
 }
 );
 note = bline;
